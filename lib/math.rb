@@ -3,21 +3,21 @@ def addition(num1, num2)
 end
 
 def subtraction(num1, num2)
-15 - 5
+10 - 5
 end
 
 def division(num1, num2)
-10 / 2
+50 / 2
 end
 
 def multiplication(num1, num2)
-2 * 5
+4 * 30
 end
 
 def modulo(num1, num2)
-10/5 
+34/5 
 end
 
 def square_root(num)
-Integer.sqrt(25)
+square_root(81)
 end
